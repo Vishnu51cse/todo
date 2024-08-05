@@ -1,0 +1,1 @@
+This is a simple and efficient Todo application built using React. It allows users to manage their daily tasks by adding and deleting tasks.
